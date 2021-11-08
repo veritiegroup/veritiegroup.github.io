@@ -1,0 +1,8 @@
+.link {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 95vh;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: xx-large;
+}
